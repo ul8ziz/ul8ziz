@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz AlGhaili</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on **Mobile Developer**
+- 🔭 I’m currently working on **Visualsoft**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **Abdulazizalghaili84@gmail.com**
 
 - 📄 Know about my experiences [.......](.......)
+- 
+<br>
 - <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <h3 align="left">Connect with me:</h3>
