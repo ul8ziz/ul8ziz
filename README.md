@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Abdulazizalghaili84@gmail.com**
 
-- 📞 How to reach me **967 772171727**
+- 📞 How to reach me **+967 772171727**
 
 - 📄 Know about my experiences [.......](.......)
 
