@@ -11,8 +11,7 @@
 
 - 📄 Know about my experiences [.......](.......)
 
-<br>
-- <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <h3 align="left">Connect with me:</h3><p align="left">
 <a href="https://twitter.com/ul8ziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ul8ziz" height="30" width="40" /></a>
