@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz AlGhaili</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on **Mobile Developer**
-- 
-- My web site https://ul8ziz.me/en
+- 📧 My web site  https://ul8ziz.me/en 
 
 - 📫 How to reach me **Abdulazizalghaili84@gmail.com**
 
 - 📞 How to reach me **+7 9804586230**
 
-- 📄 Know about my experiences [.......](.......)
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
@@ -28,7 +25,6 @@
 - Mentor at GDSC AlRazi Univercity .
   
 - Mobile developer at Visualsoft.
-
 
   
 
