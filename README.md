@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz AlGhaili</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working on **Visualsoft**
-
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **Mobile Developer**
+- 
+- My web site https://ul8ziz.me/en
 
 - 📫 How to reach me **Abdulazizalghaili84@gmail.com**
 
-- 📞 How to reach me **+967 772171727**
+- 📞 How to reach me **+7 9804586230**
 
 - 📄 Know about my experiences [.......](.......)
 
